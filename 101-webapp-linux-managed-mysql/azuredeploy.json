@@ -112,7 +112,7 @@
                 "Tier": "PremiumV2",
                 "Name": "P1v2"
             },
-            "kind": "linux"
+            "kind": "windows"
         },
         {
             "type": "Microsoft.Web/sites",
