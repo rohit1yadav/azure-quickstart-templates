@@ -109,8 +109,8 @@
                 "numberOfWorkers": "1"
             },
             "sku": {
-                "Tier": "P1v2",
-                "Name": "PremiumV2"
+                "Tier": "PremiumV2",
+                "Name": "P1v2"
             },
             "kind": "linux"
         },
