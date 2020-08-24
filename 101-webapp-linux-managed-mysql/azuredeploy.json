@@ -109,8 +109,8 @@
                 "numberOfWorkers": "1"
             },
             "sku": {
-                "Tier": "Free",
-                "Name": "Free"
+                "Tier": "P1v2",
+                "Name": "PremiumV2"
             },
             "kind": "linux"
         },
