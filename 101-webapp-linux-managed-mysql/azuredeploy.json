@@ -124,7 +124,7 @@
             ],
             "properties": {
                 "siteConfig": {
-                    "linuxFxVersion": "php|7.0",
+                    "WindowsFxVersion": "php|7.0",
                     "connectionStrings": [
                         {
                             "name": "defaultConnection",
