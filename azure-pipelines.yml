@@ -10,7 +10,7 @@ pool:
 steps:
 - task: CopyFiles@2
   inputs:
-    SourceFolder: '101-webapp-linux-managed-mysql'
+    SourceFolder: '201-web-app-java-tomcat'
     Contents: '**'
     TargetFolder: '$(Build.ArtifactStagingDirectory)'
 
