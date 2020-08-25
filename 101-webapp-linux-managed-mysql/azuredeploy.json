@@ -39,9 +39,9 @@
         },
         "dbSkuName": {
             "type": "string",
-            "defaultValue": "GP_Gen5_4",
+            "defaultValue": "GP_Gen5_2",
             "allowedValues": [
-                "GP_Gen5_4" 
+                "GP_Gen5_2" 
                 ],
             "metadata": {
                 "description": "Azure database for mySQL sku name "
