@@ -27,7 +27,11 @@
             "type": "int",
             "defaultValue": 2,
             "allowedValues": [
-                2
+                2,
+                4,
+                8,
+                16,
+                32
                 ],
             "metadata": {
                 "description": "Azure database for mySQL compute capacity in vCores (1)"
