@@ -113,8 +113,8 @@
                 "numberOfWorkers": "1"
             },
             "sku": {
-                "Tier": "PremiumV2",
-                "Name": "P1v2"
+                "Tier": "Standard",
+                "Name": "S1"
             },
             "kind": "windows"
         },
